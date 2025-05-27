@@ -1,0 +1,24 @@
+﻿trade_id,trade_name,trade_description,created_date,modified_date,created_by,modified_by,is_valid
+,Commissioning & Integration,Integration of node to network,,,123,,TRUE
+,Line & Antenna Install,"Install antenna, radios, cables and ancillary on tower top.",,,123,,TRUE
+,Ground Install,Installation of cell site equipment on ground.,,,123,,TRUE
+,Small Cell Technician,"Install antenna, radios, cables and ancillary on poles and buildings. Upto 50feet elevated work.",,,123,,TRUE
+,Router Provisioning,"provision and configure routers, CSRs",,,123,,TRUE
+,Aerial Services,,,,123,,TRUE
+,Civil Site Construction,,,,123,,TRUE
+,"Tower Maintenance (Lighting, attachments)",,,,123,,TRUE
+,DC Battery Services,,,,123,,TRUE
+,Decommissioning,,,,123,,TRUE
+,Directional Boring,,,,123,,TRUE
+,Electrical (Full Service),,,,123,,TRUE
+,Hazmat Handling,,,,123,,TRUE
+,"In-Building Construction - DAS, WiFi, Femto",,,,123,,TRUE
+,Microwave Installation,,,,123,,TRUE
+,"Outdoor Construction - DAS, WiFi",,,,123,,TRUE
+,"Outside Plant Construction (Aerial, Underground, Direction boring)",,,,123,,TRUE
+,Power and Grounding Installation,,,,123,,TRUE
+,Site Preparation and Maintenance,,,,123,,TRUE
+,Small Cell Construction,,,,123,,TRUE
+,"RF Analysis Services (EMC, PIM, etc.)",,,,123,,TRUE
+,"Site Surveys (tower, aerial)",,,,123,,TRUE
+,Drone UAS Services,,,,123,,TRUE
